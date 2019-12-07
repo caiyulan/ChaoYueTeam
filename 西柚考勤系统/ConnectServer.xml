@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ConnectServer>
+  <ValidateType>Windows</ValidateType>
+  <ServerAddress>(local)</ServerAddress>
+  <DataBaseName>Attendance</DataBaseName>
+  <UserId>
+  </UserId>
+  <UserPwd>
+  </UserPwd>
+</ConnectServer>
